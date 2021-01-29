@@ -1,0 +1,20 @@
+1) Prepare a classification model using Naive Bayes 
+for salary data 
+
+
+------->
+ priori probabilities: 
+
+    <=50K      >50K 
+0.7510693 0.2489307 
+
+Accuracy = 82.14%
+
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  <=50K  >50K
+     <=50K  11360     0
+     >50K       0  3700
+                          
